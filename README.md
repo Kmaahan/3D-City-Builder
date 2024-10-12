@@ -22,15 +22,15 @@ HTML5: The backbone of the web interface.
 Installation
 use this in git bash
 
-1.To run this project locally, follow these steps:
+1. To run this project locally, follow these steps:
 
  git clone https://github.com/kmaahan/3d-city-builder.git
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
  cd 3d-city-builder
 
- 3.Open the project: You can open the index.html file directly in your browser or run a local server
+ 3. Open the project: You can open the index.html file directly in your browser or run a local server
 
  open index.html
  
